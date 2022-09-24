@@ -26,3 +26,10 @@ python manage.py runserver
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+
+## Additional information
+project is fully compatible with 3.2.* and 4.1.* versions of django
+
+tested on fedora 36 with python 3.10.6 and django 4.1.1
+
+tested on ubuntu 20.04 with python 3.10.6 and django 3.2.9
