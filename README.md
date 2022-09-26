@@ -22,7 +22,7 @@ cd website
 python manage.py runserver
 ```
 
-4. Open ```localhost:8080``` in your browser
+4. Open ```localhost:8000``` in your browser
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
